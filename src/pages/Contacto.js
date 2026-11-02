@@ -1,4 +1,4 @@
-import React from "react";
+
 import Formulario from "../data/Formulario";
 import Mapa from "../data/mapa";
 export default function Contacto() {
