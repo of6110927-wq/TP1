@@ -1,4 +1,4 @@
-import React from "react";
+
 import MT03 from "../imagenes/images.jpg";
 import Twister from "../imagenes/descarga (1).jpg";
 import TRK502 from "../imagenes/descarga.jpg";
