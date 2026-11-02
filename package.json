@@ -1,7 +1,7 @@
 {
   "name": "tp-1",
   "version": "1.0.0",
-  "homepage": "https://of6110927-wq.github.io/TP1/",
+  "homepage": "https://github.io",
   "dependencies": {
     "@emailjs/browser": "^4.0.0",
     "react": "18.2.0",
@@ -13,5 +13,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "babel": {
+    "presets": [
+      ["react-app", { "runtime": "automatic" }]
+    ]
   }
 }
