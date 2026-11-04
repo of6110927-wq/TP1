@@ -1,7 +1,7 @@
 {
   "name": "tp-1",
   "version": "1.0.0",
-  "homepage": "https://github.io",
+  "homepage": "https://github.com/of6110927-wq/TP1",
   "dependencies": {
     "@emailjs/browser": "^4.0.0",
     "react": "18.2.0",
